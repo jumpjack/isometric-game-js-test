@@ -4,14 +4,14 @@ Forked from [jkalkhof/urban-survivor-rpg](https://github.com/jkalkhof/urban-surv
 
 Made with MelonJS:
 
-- Main page
+- [Main page](https://melonjs.org/)
 - [Documentation](https://github.com/melonjs/melonJS)
-- Source code
+- [Source code](https://github.com/melonjs/melonJS)
 
 
 ------------------
 
-Original text: 
+_Original text of readme.txt:_
 
 Urban Survival RPG
 
