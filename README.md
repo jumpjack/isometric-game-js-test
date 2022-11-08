@@ -14,6 +14,10 @@ Game map is made with **Tiled**:
 - [Source code](https://github.com/bjorn/tiled)
 - [Download](https://thorbjorn.itch.io/tiled?download)
 
+Tool "Tiled" supports various formats for maps:
+- [JSON](https://doc.mapeditor.org/en/stable/reference/json-map-format/)
+- XML
+- [TMX/TSX](https://doc.mapeditor.org/en/stable/reference/tmx-map-format/) (proprietary format) ([3rd party libraries](https://doc.mapeditor.org/en/stable/reference/support-for-tmx-maps/) in various languages)
 
 ------------------
 
