@@ -2,6 +2,13 @@ Forked from [jkalkhof/urban-survivor-rpg](https://github.com/jkalkhof/urban-surv
 
 [Live demo](https://jumpjack.github.io/isometric-game-js-test/Jerry-isometric-rpg/index.html)
 
+Made with MelonJS:
+
+- Main page
+- [Documentation](https://github.com/melonjs/melonJS)
+- Source code
+
+
 ------------------
 
 Original text: 
