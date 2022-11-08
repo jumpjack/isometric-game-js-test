@@ -10,8 +10,10 @@ Game is made with **MelonJS**:
 - [Games made with MelonJs](https://itch.io/games/made-with-melonjs)
 
 Game map is made with **Tiled**:
+- [Documentation](https://doc.mapeditor.org/en/stable/manual/introduction/)
 - [Source code](https://github.com/bjorn/tiled)
-- [Executable](https://thorbjorn.itch.io/tiled?download)
+- [Download](https://thorbjorn.itch.io/tiled?download)
+
 
 ------------------
 
