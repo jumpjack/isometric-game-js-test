@@ -11,7 +11,7 @@ Game is made with **MelonJS**:
 
 Game map is made with **Tiled**:
 - [Source code](https://github.com/bjorn/tiled)
-- [Executable](https://thorbjorn.itch.io/tiled?download)**
+- [Executable](https://thorbjorn.itch.io/tiled?download)
 
 ------------------
 
