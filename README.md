@@ -2,12 +2,16 @@ Forked from [jkalkhof/urban-survivor-rpg](https://github.com/jkalkhof/urban-surv
 
 [Live demo](https://jumpjack.github.io/isometric-game-js-test/Jerry-isometric-rpg/index.html)
 
-Made with MelonJS:
+Game is made with **MelonJS**:
 
 - [Main page](https://melonjs.org/)
 - [Documentation](https://github.com/melonjs/melonJS)
 - [Source code](https://github.com/melonjs/melonJS)
+- [Games made with MelonJs](https://itch.io/games/made-with-melonjs)
 
+Game map is made with **Tiled**:
+- [Source code](https://github.com/bjorn/tiled)
+- [Executable](https://thorbjorn.itch.io/tiled?download)**
 
 ------------------
 
