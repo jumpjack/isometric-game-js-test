@@ -1,5 +1,7 @@
 Forked from [jkalkhof/urban-survivor-rpg](https://github.com/jkalkhof/urban-survivor-rpg)
 
+[Live demo](https://jumpjack.github.io/isometric-game-js-test/)
+
 ------------------
 
 Original text: 
