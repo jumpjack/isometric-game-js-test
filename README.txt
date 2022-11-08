@@ -1,4 +1,8 @@
-README.txt
+Forked from [jkalkhof/urban-survivor-rpg](https://github.com/jkalkhof/urban-survivor-rpg)
+
+------------------
+
+Original text: 
 
 Urban Survival RPG
 
