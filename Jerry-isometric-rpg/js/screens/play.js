@@ -34,8 +34,8 @@ game.PlayScreen = me.ScreenObject.extend({
       console.log("PlayScreen: viewport: ",me.game.viewport.getWidth(), me.game.viewport.getHeight());
 
       // center box on the screen!
-      let width = 450;
-      let height = 325;
+      let width = 350;
+      let height = 225;
       let xpos = (me.game.viewport.getWidth()/2) + (width/2);
       let ypos = (me.game.viewport.getHeight()/2) - (height/2);
       console.log("PlayScreen: UIContainer: pos: ",xpos, ypos);
