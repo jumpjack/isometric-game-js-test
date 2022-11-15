@@ -31,7 +31,8 @@ game.resources = [
      * { name: "example01", type: "tmx", src: "data/map/example01.json" },
       */
     //{ name: "isometric", type: "tmx", src: "data/map/isometric.tmx" },
-    {name: "isometric", type: "tmx",	src: "data/map/urban-survival1.tmx"},
+    //{name: "isometric", type: "tmx",	src: "data/map/urban-survival1.tmx"},
+       {name: "isometric", type: "tmj",	src: https://raw.githubusercontent.com/jumpjack/Space1999Adventure/main/data/map-level0-embedded-v02.tmj},
 
     // user interface
     {name: "achievements-panel-720x60", type:"image",	src: "data/img/gui/achievements-panel-720x60.png"},
