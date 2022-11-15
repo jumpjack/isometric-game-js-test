@@ -32,6 +32,7 @@ game.resources = [
       */
     //{ name: "isometric", type: "tmx", src: "data/map/isometric.tmx" },
     //{name: "isometric", type: "tmx",	src: "data/map/urban-survival1.tmx"},
+    {name: "single", type:"image", src: "data/img/single-tileset.png"},
        {name: "isometric", type: "tmx",	src: "data/map-level0-embedded-v02.tmx"},
 
     // user interface
