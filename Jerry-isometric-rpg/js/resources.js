@@ -14,6 +14,7 @@ game.resources = [
     { name: "UI_Assets",         type: "json",   src: "data/img/UI_Assets.json" },
 
     { name: "forest",  type:"image", src: "data/img/forest.png" },
+    { name: "single",  type:"image", src: "data/img/single-tileset.png" },
     { name: "meta_collide",  type:"image", src: "data/img/meta_collide.png" },
     { name: "Blank_Sprite_Sheet_4_2_by_KnightYamato", type:"image", src: "data/img/Blank_Sprite_Sheet_4_2_by_KnightYamato.png" },
 
@@ -30,9 +31,9 @@ game.resources = [
      * { name: "example01", type: "tmx", src: "data/map/example01.tmx" },
      * { name: "example01", type: "tmx", src: "data/map/example01.json" },
      */
-    { name: "isometric", type: "tmx", src: "data/map/isometric.tmx" },
+    //{ name: "isometric", type: "tmx", src: "data/map/isometric.tmx" },
     //{name: "isometric", type: "tmx",	src: "data/map/urban-survival1.tmx"},
-    //  {name: "isometric", type: "tmx",	src: "data/map/map-level0-embedded-v02.tmx"},
+      {name: "isometric", type: "tmx",	src: "data/map/map-level0-embedded-v02.tmx"},
 
     // user interface
     {name: "achievements-panel-720x60", type:"image",	src: "data/img/gui/achievements-panel-720x60.png"},
