@@ -54,7 +54,7 @@ pippoThis = this;
 
     ------            */
     update : function (dt) {
-
+console.log("bodyUpdate dt", dt);
         if (me.input.isKeyPressed("left")) {
             // update the entity velocity
             this.body.vel.x -= this.body.accel.x * me.timer.tick;
