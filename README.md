@@ -2,7 +2,7 @@ Isometric game "urban survivor" written for MelonJS engine
 
 Other isometric engines:
  - http://craftyjs.com/  (https://github.com/craftyjs/Crafty)
- - http://www.isogenicengine.com/
+ - http://www.isogenicengine.com/ 8https://github.com/Irrelon/ige)
  - https://github.com/bugnano/frigame
  
 
