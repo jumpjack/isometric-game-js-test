@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" nextlayerid="2" nextobjectid="1">
+<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#0000ff" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
-  <image source="../img/single.png" width="384" height="160"/>
+  <image source="img/single-tileset.png" trans="898989" width="384" height="160"/>
  </tileset>
- <layer name="Livello tile 1" width="160" height="160">
+ <layer id="1" name="Livello tile 1" width="160" height="160">
   <data encoding="csv">
 0,53,53,53,53,53,53,53,53,0,0,0,53,53,53,53,53,0,0,0,0,0,53,53,53,53,53,53,53,0,0,53,57,53,12,53,57,53,0,0,0,53,57,53,53,53,53,57,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,21,20,63,21,20,63,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 2147483701,2147483684,0,43,43,43,0,0,0,2147483674,0,2147483703,0,0,0,0,0,2147483704,21,21,21,2147483703,0,43,43,43,43,0,0,2147483676,2147483701,0,0,0,0,0,0,0,2147483676,0,2147483701,0,0,0,2147483666,2147483666,0,37,0,2147483676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2147483701,0,0,0,50,0,0,50,0,2147483676,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
