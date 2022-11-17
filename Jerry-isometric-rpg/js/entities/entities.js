@@ -18,7 +18,7 @@ game.PlayerEntity = me.Entity.extend({
         me.game.viewport.follow(this, me.game.viewport.AXIS.BOTH);
 
         // enable physic collision (off by default for basic me.Renderable)
-        this.isKinematic = false;
+        this.isKinematic = true;
 
         // enable keyboard
         me.input.bindKey(me.input.KEY.LEFT,  "left");
