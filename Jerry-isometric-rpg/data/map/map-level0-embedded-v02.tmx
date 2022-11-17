@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#0000ff" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
-  <image source="img/single-tileset.png" trans="898989" width="384" height="160"/>
+  <image source="img/single.png" trans="898989" width="384" height="160"/>
  </tileset>
  <layer id="1" name="Livello tile 1" width="160" height="160">
   <data encoding="csv">
