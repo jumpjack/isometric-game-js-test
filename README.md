@@ -4,6 +4,8 @@ Other isometric engines:
  - http://craftyjs.com/  (https://github.com/craftyjs/Crafty)
  - http://www.isogenicengine.com/ 8https://github.com/Irrelon/ige)
  - https://github.com/bugnano/frigame
+ - https://github.com/j03m/trafficcone
+ - https://github.com/angrycoding/jgen/tree/master/src
  
 
 ![image](https://user-images.githubusercontent.com/1620953/201612641-2b39645b-0e36-45a1-aca3-ff3b6bef131a.png)
