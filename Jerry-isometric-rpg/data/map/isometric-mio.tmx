@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="200" height="200" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#ffffff" nextlayerid="6" nextobjectid="10">
+<map version="1.0" orientation="isometric" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="32" backgroundcolor="#ffffff" nextobjectid="10">
  <tileset firstgid="1" name="forest" tilewidth="64" tileheight="32" tilecount="320" columns="10">
   <image source="../img/forest.png" width="640" height="1024"/>
  </tileset>
  <tileset firstgid="321" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
-  <image source="img/single.png" trans="898989" width="384" height="160"/>
+  <image source="../img/single.png" trans="898989" width="384" height="160"/>
  </tileset>
  <layer id="1" name="level 1" width="20" height="20">
   <data encoding="csv">
@@ -20,7 +20,7 @@
 0,0,2147484021,0,0,0,0,0,0,0,0,2147483994,2147483987,0,0,358,358,0,0,0,
 0,0,2147484021,2147484011,0,0,0,0,0,0,2147483978,0,2147483978,0,0,0,0,0,0,0,
 0,0,2147484021,2147484011,2147484011,0,330,0,2147484011,363,0,2147483996,2147484021,0,0,0,0,0,0,349,
-0,0,0,348,347,346,0,348,347,347,347,0,0,347,347,347,347,347,347,0,
+0,0,0,348,347,346,0,348,347,347,347,0,0,347,347,347,347,347,347,323,
 0,0,0,373,373,377,330,377,373,377,0,0,0,0,0,0,0,0,0,0,
 0,0,2147484025,2147484004,0,0,0,0,357,2147484021,0,0,0,0,0,0,0,0,0,0,
 0,0,2147484021,0,0,0,0,0,0,0,2147484024,373,340,373,326,327,373,377,373,377,
