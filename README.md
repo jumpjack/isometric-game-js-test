@@ -7,6 +7,7 @@ Other isometric engines for javascript:
  - https://github.com/j03m/trafficcone
  - https://github.com/angrycoding/jgen/tree/master/src
  - https://www.prelude-prod.fr/demo/pp3diso/
+ - https://cocos2d-x.org/js-tests/TileMaps/iso-test.tmx
  
 
 ![image](https://user-images.githubusercontent.com/1620953/201612641-2b39645b-0e36-45a1-aca3-ff3b6bef131a.png)
