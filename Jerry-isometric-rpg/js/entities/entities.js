@@ -6,6 +6,7 @@
 /************************************************************************************/
 game.PlayerEntity = me.Entity.extend({
     init: function(x, y, settings) {
+console.log("playerEntity init:",  x, y, settings);  
         // call the constructor
         this._super(me.Entity, "init", [x, y , settings]);
 
@@ -13,9 +14,14 @@ game.PlayerEntity = me.Entity.extend({
         //this.body.setVelocity(2.5, 2.5);
         this.body.setVelocity(2.5, 1.25);
         this.body.setFriction(0.4,0.4);
+console.log("playerEntity body:",  this.body);  
 
         // set the display around our position
         me.game.viewport.follow(this, me.game.viewport.AXIS.BOTH);
+	    
+console.log("playerEntity game.viewpor:",  me.game.viewport); 
+pippoMe = me;
+pippoThis = this;
 
         // enable physic collision (off by default for basic me.Renderable)
         this.isKinematic = true;
