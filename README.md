@@ -1,5 +1,8 @@
 Isometric game "urban survivor" written for [MelonJS](https://github.com/melonjs/melonJS) game engine
 
+![image](https://user-images.githubusercontent.com/1620953/201612641-2b39645b-0e36-45a1-aca3-ff3b6bef131a.png)
+
+
 Other isometric engines for javascript:
  - [Phaser3](https://github.com/photonstorm/phaser)
  - http://craftyjs.com/  (https://github.com/craftyjs/Crafty)
@@ -11,8 +14,13 @@ Other isometric engines for javascript:
  - https://cocos2d-x.org/js-tests/TileMaps/iso-test.tmx
  - https://github.com/iceddev/frozen
  
+ - [Godot](https://godotengine.org/) - Multiplatform game engine; creates binary executables, but can also export to javascript
+     - [Tiled plugin to export maps to Godot format](https://github.com/mapeditor/tiled-to-godot-export)
+     - [Various isometric examples](https://itch.io/games/free/made-with-godot/tag-isometric)
+     - [Live Demo 1](https://godotengine.github.io/godot-demo-projects/2d/isometric/)
+     - [Source for demo 1](https://github.com/godotengine/godot-demo-projects/tree/master/2d/isometric)
+     - [Downloadable source files for demo 1](https://godotengine.org/asset-library/asset/112)
 
-![image](https://user-images.githubusercontent.com/1620953/201612641-2b39645b-0e36-45a1-aca3-ff3b6bef131a.png)
 
 Forked from [jkalkhof/urban-survivor-rpg](https://github.com/jkalkhof/urban-survivor-rpg)
 
