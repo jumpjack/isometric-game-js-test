@@ -15,6 +15,7 @@ Other isometric engines for javascript:
  - https://github.com/iceddev/frozen
  - [BYOND](https://www.byond.com/developer/) 
  - [Cocos2d](http://cocos2d-x.org/js-tests/)
+ - [jsISO](https://www.byond.com/developer/)
  - ORX  no
  - DEFOLD  no
  - LibGSX  no
