@@ -30,4 +30,33 @@
  <objectgroup name="Player">
   <object id="1" name="mainPlayer" type="actor1m" x="96" y="96" width="32" height="32"/>
  </objectgroup>
+ <objectgroup name="collisioni">
+  <object id="10" x="61.8333" y="96.1667">
+   <polygon points="0,0 -2.5,-36.8333 32.3333,-36.3333 33,-0.333333"/>
+  </object>
+  <object id="11" x="72" y="168.667">
+   <polygon points="0,0 -72.8333,-1.16667 -72.8333,-14.5 0.166667,-13.5"/>
+  </object>
+  <object id="12" x="84.6667" y="168">
+   <polygon points="0,0 -1.5,-13.1667 22.6667,-12.6667 23.8333,11.5 46.5,10.8333 47.5,23.8333 11.8333,24.1667 11.8333,-0.5"/>
+  </object>
+  <object id="13" x="145.833" y="192.167">
+   <polygon points="0,0 -2.66667,-14 93.5,-13.5 94.3333,1.66667"/>
+  </object>
+  <object id="14" x="120.5" y="108.167">
+   <polygon points="0,0 11.8333,0.166667 12,-107.333 0.5,-108.5"/>
+  </object>
+  <object id="15" x="144.167" y="108.5">
+   <polygon points="0,0 13.5,-0.166667 12.6667,-108 -0.5,-107.5"/>
+  </object>
+  <object id="16" x="157.167" y="120.833">
+   <polygon points="0,0 -1.5,12.8333 81.1667,9.5 80.1667,22.5 -84.1667,24.1667 -83.8333,10.5 -15.8333,11.1667 -15.1667,-1.5"/>
+  </object>
+  <object id="17" x="131.333" y="120">
+   <polygon points="0,0 0,9.33333 -129.833,11.8333 -130.667,-0.666667"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="Player" visible="0">
+  <object id="1" name="mainPlayer" class="actor1m" x="96" y="96" width="32" height="32"/>
+ </objectgroup> 
 </map>
