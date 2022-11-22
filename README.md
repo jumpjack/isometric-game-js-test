@@ -14,6 +14,9 @@ Other isometric engines for javascript:
  - https://cocos2d-x.org/js-tests/TileMaps/iso-test.tmx
  - https://github.com/iceddev/frozen
  - BYOND - https://www.byond.com/developer/
+ - ORX  no
+ - DEFOLD  no
+ - LibGSX  no
  
  - [Godot](https://godotengine.org/) - Multiplatform game engine; creates binary executables, but can also export to javascript
      - [Tiled plugin to export maps to Godot format](https://github.com/mapeditor/tiled-to-godot-export)
