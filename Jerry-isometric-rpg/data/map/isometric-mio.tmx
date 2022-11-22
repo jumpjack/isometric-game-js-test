@@ -56,7 +56,4 @@
    <polygon points="0,0 0,9.33333 -129.833,11.8333 -130.667,-0.666667"/>
   </object>
  </objectgroup>
- <objectgroup id="2" name="Player" visible="0">
-  <object id="1" name="mainPlayer" class="actor1m" x="96" y="96" width="32" height="32"/>
- </objectgroup> 
 </map>
