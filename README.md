@@ -1,8 +1,9 @@
-Isometric game "urban survivor" written for MelonJS engine
+Isometric game "urban survivor" written for [MelonJS](https://github.com/melonjs/melonJS) game engine
 
 Other isometric engines for javascript:
+ - [Phaser3](https://github.com/photonstorm/phaser)
  - http://craftyjs.com/  (https://github.com/craftyjs/Crafty)
- - http://www.isogenicengine.com/ 8https://github.com/Irrelon/ige)
+ - http://www.isogenicengine.com/ (https://github.com/Irrelon/ige)
  - https://github.com/bugnano/frigame
  - https://github.com/j03m/trafficcone
  - https://github.com/angrycoding/jgen/tree/master/src
