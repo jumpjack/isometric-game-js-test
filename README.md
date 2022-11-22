@@ -13,7 +13,8 @@ Other isometric engines for javascript:
  - https://www.prelude-prod.fr/demo/pp3diso/
  - https://cocos2d-x.org/js-tests/TileMaps/iso-test.tmx
  - https://github.com/iceddev/frozen
- - BYOND - https://www.byond.com/developer/
+ - [BYOND](https://www.byond.com/developer/) 
+ - [Cocos2d](http://cocos2d-x.org/js-tests/)
  - ORX  no
  - DEFOLD  no
  - LibGSX  no
