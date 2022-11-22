@@ -35,7 +35,7 @@ game.resources = [
     //{ name: "isometric", type: "tmx", src: "data/map/isometric.tmx" },
     //{name: "isometric", type: "tmx",	src: "data/map/urban-survival1.tmx"},
     //  {name: "isometric", type: "tmx",	src: "data/map/map-level0-embedded-v02.tmx"},
-      {name: "isometric", type: "tmx",	src: "data/map/isometric.tmx"},
+      {name: "isometric", type: "tmx",	src: "data/map/isometric-mio.tmx"},
 
     // user interface
     {name: "achievements-panel-720x60", type:"image",	src: "data/img/gui/achievements-panel-720x60.png"},
