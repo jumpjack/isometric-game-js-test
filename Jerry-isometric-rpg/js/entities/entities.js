@@ -24,7 +24,7 @@ pippoMe = me;
 pippoThis = this;
 
         // enable physic collision (off by default for basic me.Renderable)
-        this.isKinematic = true;
+        this.isKinematic = false;
 
         // enable keyboard
         me.input.bindKey(me.input.KEY.LEFT,  "left");
