@@ -30,7 +30,7 @@
 0,0,0,0,0,2147484025,346,0,348,349,347,347,347,347,347,347,347,347,347,347
 </data>
  </layer>
- <objectgroup id="3" name="Player" visible="0">
+ <objectgroup id="3" name="Player" visible="1">
   <object id="1" name="mainPlayer" class="actor1m" x="96" y="96" width="32" height="32"/>
  </objectgroup>
 </map>
