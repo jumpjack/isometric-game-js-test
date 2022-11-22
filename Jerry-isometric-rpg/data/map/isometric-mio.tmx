@@ -27,10 +27,10 @@
 0,0,0,0,0,2147483705,26,0,28,29,27,27,27,27,27,27,27,27,27,27
 </data>
  </layer>
- <objectgroup id="2" name="Player" visible="1">
+ <objectgroup id="2" name="Player">
   <object id="1" name="mainPlayer" class="actor1m" x="96" y="96" width="32" height="32"/>
  </objectgroup>
- <objectgroup id="3" name="collisioni" visible="1">
+ <objectgroup id="3" name="collisioni">
   <object id="42" x="94.3333" y="215" width="142.667" height="9.33333"/>
   <object id="43" x="13.3333" y="212" width="68" height="14.6667"/>
   <object id="44" x="15.6667" y="235"/>
