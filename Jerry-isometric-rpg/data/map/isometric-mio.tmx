@@ -3,6 +3,9 @@
  <tileset firstgid="321" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
   <image source="../img/single.png" width="384" height="160"/>
  </tileset>
+ <objectgroup name="Player">
+  <object id="1" name="mainPlayer" type="actor1m" x="96" y="96" width="32" height="32"/>
+ </objectgroup> 
  <layer name="level 1" width="20" height="20">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -27,9 +30,7 @@
 0,0,0,0,0,2147484025,346,0,348,349,347,347,347,347,347,347,347,347,347,347
 </data>
  </layer>
- <objectgroup name="Player">
-  <object id="1" name="mainPlayer" type="actor1m" x="96" y="96" width="32" height="32"/>
- </objectgroup>
+
 
  <objectgroup id="3" name="collisioni">
   <object id="18" x="70" y="36.6667" width="183.333" height="11.3333"/>
