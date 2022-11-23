@@ -168,7 +168,7 @@
 </data>
  </layer>
  <objectgroup id="2" name="Player">
-  <object id="1" name="mainPlayer" class="actor1m" x="16.2424" y="61.6212" width="11.5455" height="13.4545"/>
+  <object id="1" name="mainPlayer" class="actor1m" x="23.7879" y="46.803" width="12" height="12"/>
   <object id="19" x="96.5" y="89.5"/>
  </objectgroup>
  <objectgroup id="3" name="collisioni">
@@ -183,10 +183,7 @@
   <object id="11" x="-1.125" y="0" width="11.625" height="112.125"/>
   <object id="12" x="-0.25" y="95.25" width="105.75" height="14.75"/>
   <object id="14" x="48" y="35.6667" width="35" height="33.6667"/>
-  <object id="15" x="23" y="48.6667" width="15" height="9.66667"/>
   <object id="16" x="37" y="10.1667" width="34.1667" height="13.5"/>
   <object id="17" x="69.5" y="94.5" width="25.3333" height="13.3333"/>
  </objectgroup>
 </map>
-
-
