@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#0000ff" nextlayerid="2" nextobjectid="1">
+<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#0000ff" nextlayerid="4" nextobjectid="21">
  <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
-  <image source="img/single.png" trans="898989" width="384" height="160"/>
+  <image source="../img/single.png" trans="898989" width="384" height="160"/>
  </tileset>
  <layer id="1" name="Livello tile 1" width="160" height="160">
   <data encoding="csv">
@@ -167,7 +167,24 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,27,27,27,27,27,27,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
-  <objectgroup name="Player">
-  <object id="1" name="mainPlayer" type="actor1m" x="96" y="96" width="32" height="32"/>
+ <objectgroup id="2" name="Player">
+  <object id="1" name="mainPlayer" class="actor1m" x="13.3333" y="68.1667" width="24" height="24"/>
+  <object id="19" x="96.5" y="89.5"/>
+ </objectgroup>
+ <objectgroup id="3" name="collisioni">
+  <object id="1" x="154.125" y="71.875" width="25.125" height="10.375"/>
+  <object id="2" x="189.75" y="48.25" width="13.5" height="11.5"/>
+  <object id="3" x="119.75" y="0.5" width="11.75" height="82.75"/>
+  <object id="4" x="119.125" y="94" width="13.375" height="54.375"/>
+  <object id="6" x="132.625" y="102.875" width="80.625" height="12.875"/>
+  <object id="8" x="95.5" y="-5.25" width="13.25" height="87.75"/>
+  <object id="9" x="95.25" y="95.375" width="11.375" height="28.875"/>
+  <object id="10" x="0.25" y="0.25" width="108.75" height="11.25"/>
+  <object id="11" x="-1.125" y="0" width="11.625" height="112.125"/>
+  <object id="12" x="-0.25" y="95.25" width="105.75" height="14.75"/>
+  <object id="14" x="48" y="35.6667" width="35" height="33.6667"/>
+  <object id="15" x="23" y="48.6667" width="15" height="9.66667"/>
+  <object id="16" x="37" y="10.1667" width="34.1667" height="13.5"/>
+  <object id="17" x="69.5" y="94.5" width="25.3333" height="13.3333"/>
  </objectgroup>
 </map>
