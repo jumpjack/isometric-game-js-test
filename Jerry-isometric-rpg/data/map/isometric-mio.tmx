@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#0000ff" nextlayerid="4" nextobjectid="21">
+<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="16" height="160" tilewidth="24" tileheight="12" infinite="0" backgroundcolor="#0000ff" nextlayerid="4" nextobjectid="37">
  <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
   <image source="../img/single.png" trans="898989" width="384" height="160"/>
  </tileset>
@@ -174,16 +174,29 @@
  <objectgroup id="3" name="collisioni">
   <object id="1" x="154.125" y="71.875" width="25.125" height="10.375"/>
   <object id="2" x="189.75" y="48.25" width="13.5" height="11.5"/>
-  <object id="3" x="119.75" y="0.5" width="11.75" height="82.75"/>
-  <object id="4" x="119.125" y="94" width="13.375" height="54.375"/>
-  <object id="6" x="132.625" y="102.875" width="80.625" height="12.875"/>
-  <object id="8" x="95.5" y="-5.25" width="13.25" height="87.75"/>
-  <object id="9" x="95.25" y="95.375" width="11.375" height="28.875"/>
+  <object id="3" x="119.75" y="0.5" width="11.75" height="76.25"/>
+  <object id="6" x="130.125" y="107.625" width="84.375" height="12.875"/>
+  <object id="8" x="95.5" y="-5.25" width="13.25" height="84"/>
   <object id="10" x="0.25" y="0.25" width="108.75" height="11.25"/>
   <object id="11" x="-1.125" y="0" width="11.625" height="112.125"/>
-  <object id="12" x="-0.25" y="95.25" width="105.75" height="14.75"/>
+  <object id="12" x="2.75" y="106.25" width="105.75" height="14.75"/>
   <object id="14" x="48" y="35.6667" width="35" height="33.6667"/>
   <object id="16" x="37" y="10.1667" width="34.1667" height="13.5"/>
   <object id="17" x="69.5" y="94.5" width="25.3333" height="13.3333"/>
+  <object id="21" x="105" y="98.25" width="25.75" height="21"/>
+  <object id="22" x="132" y="26" width="48" height="35"/>
+  <object id="23" x="145.75" y="14.75" width="21.5" height="10.5"/>
+  <object id="24" x="118" y="-2" width="275.5" height="13"/>
+  <object id="25" x="206.5" y="109.25" width="110" height="23"/>
+  <object id="27" x="334.25" y="97.75" width="46.75" height="34.25"/>
+  <object id="28" x="261.5" y="57" width="13.5" height="12.5"/>
+  <object id="29" x="282.25" y="81.25" width="15.5" height="10.5"/>
+  <object id="30" x="312.5" y="60" width="13.5" height="11.5"/>
+  <object id="31" x="284.75" y="31.5" width="11.75" height="13.75"/>
+  <object id="32" x="262" y="21.75" width="13.25" height="12.25"/>
+  <object id="33" x="371.25" y="64" width="13.75" height="80.75"/>
+  <object id="34" x="354.75" y="8.25" width="14" height="55"/>
+  <object id="35" x="271" y="10.5" width="49.5" height="11.5"/>
+  <object id="36" x="285.75" y="165.5" width="12.75" height="11.75"/>
  </objectgroup>
 </map>
