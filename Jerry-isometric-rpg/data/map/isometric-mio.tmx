@@ -168,7 +168,7 @@
 </data>
  </layer>
  <objectgroup id="2" name="Player">
-  <object id="1" name="mainPlayer" class="actor1m" x="13.3333" y="68.1667" width="24" height="24"/>
+  <object id="1" name="mainPlayer" class="actor1m" x="16.2424" y="61.6212" width="11.5455" height="13.4545"/>
   <object id="19" x="96.5" y="89.5"/>
  </objectgroup>
  <objectgroup id="3" name="collisioni">
