@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="24" tileheight="12" infinite="0" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
-  <image source="../img/single.png" trans="898989" width="384" height="160"/>
+  <image source="../img/single.png" width="384" height="160"/>
  </tileset>
  <layer id="1" name="Livello tile 0" width="10" height="10">
   <data encoding="csv">
@@ -59,6 +59,10 @@
 0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
+ <objectgroup id="2" name="Player">
+  <object id="1" name="mainPlayer" class="actor1m" x="23.7879" y="46.803" width="12" height="12"/>
+  <object id="19" x="96.5" y="89.5"/>
+ </objectgroup>
  <objectgroup id="2" name="collisions">
   <object id="1" x="0" y="12" width="12" height="12"/>
   <object id="1" x="0" y="24" width="12" height="12"/>
