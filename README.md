@@ -18,6 +18,7 @@ Other isometric engines for javascript:
  - [jsISO](https://github.com/beakable/isometric) - https://www.jsiso.com/
  - [Wright!](https://github.com/kesiev/Wright) - Ancient game engine for old-fashioned games; undocumented, supports isometric, has a Tiled-to-proprietary converter; self-contained in single .js file
  - [Akihabara](https://github.com/Akihabara) - Another ancient and undocumented game engine for simple games; [apparently](http://akihabara.github.io/) does support isometric (no docs?!?); [offline tool](https://github.com/Akihabara/akibaka/tree/master/AkibaKa) for manually creating maps.
+ - [GammaJS](https://gammajs.org/advanced/install.html#advancedinstall) - Ancient (2010), discontinued, very complex setup and development. Not recoomended.
  - ORX  no
  - DEFOLD  no
  - LibGSX  no
