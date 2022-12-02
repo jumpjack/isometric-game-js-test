@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="24" tileheight="12" infinite="0" nextlayerid="3" nextobjectid="2">
+ <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
+  <image source="../img/single.png" width="384" height="160"/>
+ </tileset>
+ <layer id="0" name="level 0" width="10" height="10">
+  <data encoding="csv">
+0,53,53,53,53,53,53,53,53,0,
+2147483701,2147483684,0,43,43,43,0,0,0,2147483674,
+2147483701,0,0,0,0,0,0,0,2147483658,0,
+2147483669,0,0,0,43,43,43,0,0,2147483676,
+2147483701,0,25,0,43,43,43,0,0,2147483675,
+2147483669,0,0,0,43,43,43,0,0,2147483675,
+2147483701,0,0,0,0,0,0,0,0,2147483674,
+2147483701,2147483691,0,0,0,0,0,0,2147483658,0,
+2147483701,2147483691,2147483691,0,10,0,2147483691,43,0,2147483676,
+0,28,27,26,0,28,27,27,27,0
+</data>
+ </layer>
+ <objectgroup id="5" name="Player">
+  <object id="1" name="mainPlayer" class="actor1m" x="24" y="24" width="12" height="12"/>
+ </objectgroup>
+ <layer id="1" name="level 1" width="10" height="10" offsetx="0" offsety="-7">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,43,43,43,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="2" name="level 2" width="10" height="10" offsetx="0" offsety="-7">
+  <data encoding="csv">
+0,0,52,52,52,52,52,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+2147483700,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+2147483700,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+2147483700,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="3" name="level 3" width="10" height="10" offsetx="0" offsety="-7">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,2147483706,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,2147483706,0,
+0,0,0,0,58,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="collisions">
+  <object id="1" x="-12" y="0" width="12" height="12"/>
+  <object id="1" x="-12" y="12" width="12" height="12"/>
+  <object id="2" x="-12" y="24" width="12" height="12"/>
+  <object id="3" x="-12" y="36" width="12" height="12"/>
+  <object id="4" x="-12" y="48" width="12" height="12"/>
+  <object id="5" x="-12" y="60" width="12" height="12"/>
+  <object id="6" x="-12" y="72" width="12" height="12"/>
+  <object id="7" x="-12" y="84" width="12" height="12"/>
+  <object id="8" x="0" y="-12" width="12" height="12"/>
+  <object id="9" x="0" y="0" width="12" height="12"/>
+  <object id="10" x="0" y="72" width="12" height="12"/>
+  <object id="11" x="0" y="84" width="12" height="12"/>
+  <object id="12" x="0" y="96" width="12" height="12"/>
+  <object id="13" x="12" y="-12" width="12" height="12"/>
+  <object id="14" x="12" y="36" width="12" height="12"/>
+  <object id="15" x="12" y="84" width="12" height="12"/>
+  <object id="16" x="12" y="96" width="12" height="12"/>
+  <object id="17" x="24" y="-12" width="12" height="12"/>
+  <object id="18" x="24" y="0" width="12" height="12"/>
+  <object id="19" x="24" y="96" width="12" height="12"/>
+  <object id="20" x="36" y="-12" width="12" height="12"/>
+  <object id="21" x="36" y="0" width="12" height="12"/>
+  <object id="22" x="36" y="24" width="12" height="12"/>
+  <object id="23" x="36" y="36" width="12" height="12"/>
+  <object id="24" x="36" y="48" width="12" height="12"/>
+  <object id="25" x="48" y="-12" width="12" height="12"/>
+  <object id="26" x="48" y="0" width="12" height="12"/>
+  <object id="27" x="48" y="24" width="12" height="12"/>
+  <object id="28" x="48" y="36" width="12" height="12"/>
+  <object id="29" x="48" y="48" width="12" height="12"/>
+  <object id="30" x="48" y="96" width="12" height="12"/>
+  <object id="31" x="60" y="-12" width="12" height="12"/>
+  <object id="32" x="60" y="24" width="12" height="12"/>
+  <object id="33" x="60" y="36" width="12" height="12"/>
+  <object id="34" x="60" y="48" width="12" height="12"/>
+  <object id="35" x="60" y="84" width="12" height="12"/>
+  <object id="36" x="60" y="96" width="12" height="12"/>
+  <object id="37" x="72" y="-12" width="12" height="12"/>
+  <object id="38" x="72" y="84" width="12" height="12"/>
+  <object id="39" x="72" y="96" width="12" height="12"/>
+  <object id="40" x="84" y="-12" width="12" height="12"/>
+  <object id="41" x="84" y="96" width="12" height="12"/>
+  <object id="42" x="96" y="0" width="12" height="12"/>
+  <object id="43" x="96" y="24" width="12" height="12"/>
+  <object id="44" x="96" y="36" width="12" height="12"/>
+  <object id="45" x="96" y="48" width="12" height="12"/>
+  <object id="46" x="96" y="60" width="12" height="12"/>
+  <object id="47" x="96" y="84" width="12" height="12"/>
+ </objectgroup>
+
+</map>
