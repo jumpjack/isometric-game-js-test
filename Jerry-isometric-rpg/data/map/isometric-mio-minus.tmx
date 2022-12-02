@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="24" tileheight="12" infinite="0" nextlayerid="3" nextobjectid="2">
+<map version="1.9" tiledversion="1.9.2" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="24" tileheight="12" infinite="0"
+backgroundcolor="#9f681a" nextobjectid="50">
  <tileset firstgid="1" name="single" tilewidth="24" tileheight="40" tilecount="64" columns="16">
   <image source="../img/single.png" width="384" height="160"/>
  </tileset>
- <objectgroup id="5" name="Player">
-  <object id="1" name="mainPlayer" class="actor1m" x="24" y="24" width="12" height="12"/>
+ <objectgroup color="#00ff00" name="Player">
+  <object id="0" name="mainPlayer" type="actor1m" x="24" y="24" width="12" height="12"/>
  </objectgroup>
 
 <layer id="0" name="level 0" width="10" height="10">
@@ -67,8 +68,7 @@
 </data>
  </layer>
 
- <objectgroup id="4" name="collisions">
-  <object id="1" x="-12" y="0" width="12" height="12"/>
+ <objectgroup id="1" name="collisions">
   <object id="1" x="-12" y="12" width="12" height="12"/>
   <object id="2" x="-12" y="24" width="12" height="12"/>
   <object id="3" x="-12" y="36" width="12" height="12"/>
@@ -116,6 +116,8 @@
   <object id="45" x="96" y="48" width="12" height="12"/>
   <object id="46" x="96" y="60" width="12" height="12"/>
   <object id="47" x="96" y="84" width="12" height="12"/>
+  <object id="48" x="-12" y="0" width="12" height="12"/>
+
  </objectgroup>
 
 </map>
